@@ -83,5 +83,5 @@ return [
         'keyAlreadyExists' => 'Key ":name" already Exists !!!',
         'keyNotExists' => 'Key ":name" does not Exists !!!',
         'provideFileName' => 'You have to provide a FileName !!!',
-    ],
-];
+    ],]]]!
+];]]]!
